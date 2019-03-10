@@ -1,1 +1,4 @@
 # Book-Store
+
+This site is built with [React.js](https://reactjs.org/)(Client), [Express.js](https://expressjs.com/)(Server) and [MongoDB](https://www.mongodb.com/)(Database). For the state management on the client side is used [Redux](https://redux.js.org/).  
+This is Java Script application for storing books. In the application we have admin functionality (creating a book, approving purchases, editing and deleting books). The logged users can purchase books, leave reviews, like a book, have a cart with currently purchased books. When opening their cart, they are able to see all purchased books and they are able to complete their order (after that an order is created and the user must wait for admins approval). The users are able to see all of their orders in a separate view with detailed information about them.
